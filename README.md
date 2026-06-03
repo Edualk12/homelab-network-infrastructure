@@ -357,3 +357,20 @@ via PAT overload on the Cisco router.
 
 ### Security 
 Using the Cisco ISR4321 onboard router for the firewall and the Pihole Ad Blocker and DNS server used for filtering.
+
+## What I Learned
+- Router-on-a-stick with dot1Q subinterfaces for VLAN
+- How different brands handle configuration (Cisco, Engenius)
+- Inter-VLAN routing and DHCP pool for each VLAN
+- Importance of excluding gateway IPs from DHCP
+- improving security through enabling SSH and disabling telnet on all devices
+- How Pi-hole integrates as primary DNS per VLAN
+- Cisco IOS-XE software licensing limitations
+
+## What I'd Improve (Work in Progress)
+- Add MikroTik as perimeter firewall
+- Implement inter-VLAN ACLs to isolate guest traffic
+- Move routing to MikroTik to bypass 50Mbps cap
+- Add Zabbix SNMP monitoring for all devices
+
+  
