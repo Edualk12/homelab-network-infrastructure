@@ -386,6 +386,28 @@ I installed tailscale to my main server and main PC using the HP Thin Client ser
 ## Pi-hole DNS Server | Ad Blocker
 
 
+## Validation
+
+### Inter-VLAN Routing
+
+PC on VLAN 10 successfully pinged:
+- VLAN 10 Gateway 192.168.1.1
+![ping10 Diagram]()
+
+
+- VLAN 20 Gateway 192.168.2.1
+![ping20 Diagram]()
+  
+- VLAN 30 Gateway 192.168.3.1
+![ping30 Diagram]()
+
+### DNS
+
+Pi-hole successfully resolves DNS requests from VLAN 10.
+
+### Internet Access
+
+All VLANs have internet connectivity through ISR4321.
 
 
 ## What I Learned
