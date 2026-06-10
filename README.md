@@ -392,6 +392,13 @@ I installed tailscale to my main server and main PC using the HP Thin Client ser
 ## Pi-hole DNS Server | Ad Blocker
 
 ### Overview
+
+Benefits:
+- Centralized DNS management
+- Advertisement blocking
+- Reduced malicious domain exposure
+- Faster repeat DNS lookups through caching
+
 Pi-hole runs on the HP Thin Client (T530) on VLAN 10 at a 
 static IP of `192.168.1.69`, serving as the primary DNS 
 server for the main network.
