@@ -369,6 +369,10 @@ A quick and simple alternative I found is through using tailscale to access my n
 
 I installed tailscale to my main server and main PC using the HP Thin Client server as the main server to wake up the other computers using Wake-on-Lan through SSH clients (Termius, MobaXterm)
 
+## Pi-hole DNS Server | Ad Blocker
+
+
+
 
 ## What I Learned
 - Router-on-a-stick with dot1Q subinterfaces for VLAN
