@@ -50,7 +50,7 @@ My Homelab network is built in order for me to learn and gain hands on experienc
 ### Full Setup
 
 
-![Real Photo](https://github.com/Edualk12/homelab-network/blob/main/homelab%20pic.jpg)
+![Real Photo](https://github.com/Edualk12/homelab-network/blob/main/images/homelab%20pic.jpg)
 
 
 
