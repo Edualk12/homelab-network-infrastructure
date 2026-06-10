@@ -70,7 +70,7 @@ Full configuration: [config/engenius-ews7928.cfg](config/engenius-ews7928.cfg)
 
 ### IP Interface 
 
-![IP int Diagram](https://github.com/Edualk12/homelab-network/blob/main/ip%20int.png)
+![IP int Diagram](https://github.com/Edualk12/homelab-network/blob/main/images/ip%20int.png)
 
 
 ## How It Operates 
@@ -214,16 +214,16 @@ The Cisco ISR4321 assigns Pi-hole as primary DNS for VLAN 10:
 PC on VLAN 10 successfully pinged:
 - VLAN 10 Gateway 192.168.1.1
   
-![ping10 Diagram](https://github.com/Edualk12/homelab-network/blob/main/ping%20vlan%2010.png)
+![ping10 Diagram](https://github.com/Edualk12/homelab-network/blob/main/images/ping%20vlan%2010.png)
 
 
 - VLAN 20 Gateway 192.168.2.1
   
-![ping20 Diagram](https://github.com/Edualk12/homelab-network/blob/main/ping%20vlan%2020.png)
+![ping20 Diagram](https://github.com/Edualk12/homelab-network/blob/main/images/ping%20vlan%2020.png)
   
 - VLAN 30 Gateway 192.168.3.1
   
-![ping30 Diagram](https://github.com/Edualk12/homelab-network/blob/main/ping%20vlan%2030.png)
+![ping30 Diagram](https://github.com/Edualk12/homelab-network/blob/main/images/ping%20vlan%2030.png)
 
 ### DNS
 
