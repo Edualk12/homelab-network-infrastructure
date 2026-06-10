@@ -2,6 +2,20 @@
 
 My Homelab network is built in order for me to learn and gain hands on experience on networking and how different networking devices interact with one another and through making this homelab I was able to gain more control and deeper understanding on data moves through different components and its uses.
 
+## Skills Demonstrated
+
+- VLAN design and implementation
+- IEEE 802.1Q trunking
+- Router-on-a-Stick architecture
+- Inter-VLAN routing
+- DNS administration (Pi-hole)
+- Network segmentation
+- Remote access VPN (Tailscale)
+- Switch configuration and management
+- Cisco IOS CLI
+- Network documentation
+- Troubleshooting and validation
+
 ## Network Topology 
 
 ![Network Diagram](https://github.com/Edualk12/HOMELAB-NETWORK/blob/main/HOMELAB%20V4.png)
