@@ -358,6 +358,13 @@ via PAT overload on the Cisco router.
 ### Security 
 Using the Cisco ISR4321 onboard router for the firewall and the Pihole Ad Blocker and DNS server used for filtering.
 
+## REMOTE ACCESS via Tailscale VPN
+Due to CGnat which my IP is dynamic I am not able to securely and remotely connect to my network using traditional methods such as Wireguard.
+A quick and simple alternative I found is through using tailscale to access my network through their relay servers to bypass the dynamic IP address.
+
+I installed tailscale to my main server and main PC 
+
+
 ## What I Learned
 - Router-on-a-stick with dot1Q subinterfaces for VLAN
 - How different brands handle configuration (Cisco, Engenius)
@@ -372,5 +379,6 @@ Using the Cisco ISR4321 onboard router for the firewall and the Pihole Ad Blocke
 - Implement inter-VLAN ACLs to isolate guest traffic
 - Move routing to MikroTik to bypass 50Mbps cap
 - Add Zabbix SNMP monitoring for all devices
+- implementing ddns server
 
   
