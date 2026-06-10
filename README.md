@@ -36,7 +36,7 @@ My Homelab network is built in order for me to learn and gain hands on experienc
 | Device | CPU | RAM | Storage | OS/Role |
 |--------|-----|-----|---------|------|
 | HP Thin Client T530 | AMD Embedded G-Series GX-215JJ | 4GB | 256GB | Ubuntu Server (Runs Pihole 24/7, Main DNS Server) |
-| Dell Optiplex 3050 Micro | Intel Core I5-8500T | 16GB | 256GB | Proxmox VE (Testing Environment) |
+| Dell Optiplex 3060 Micro | Intel Core I5-8500T | 16GB | 256GB | Proxmox VE (Testing Environment) |
 
 ## VLAN Design
 | VLAN ID | Name | Subnet | Device Connected |
