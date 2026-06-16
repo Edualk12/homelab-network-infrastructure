@@ -1,4 +1,4 @@
-# **HOMELAB NETWORK** 
+# **Homelab Network Infrastructure Design and Implementation** 
 
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
