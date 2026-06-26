@@ -13,7 +13,7 @@ My Homelab network is built in order for me to learn and gain hands on experienc
 
 ## Network Topology 
 
-![Network Diagram](https://github.com/Edualk12/homelab-network/blob/main/HOMELAB%20V5.png)
+![Network Diagram](https://github.com/Edualk12/homelab-network-infrastructure/blob/main/images/HOMELAB%20V4.drawio.png)
 
 
 ## Skills Demonstrated
